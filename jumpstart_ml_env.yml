@@ -1,0 +1,12 @@
+name: jumpstart_ml
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - nltk
+  - lime
+  - gensim
+  - pyldavis
+  - jupyterlab
