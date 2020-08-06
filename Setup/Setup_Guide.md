@@ -25,7 +25,7 @@ Activate the new environment: `conda activate jumpstart_ml`.
 
 Start JupyterLab by typing `jupyter lab`. 
 
-When JupyterLab opens in your browser, navigate to the folder where you cloned the repository, `Jumpstart-ML-Workshop`. Click on the file named `jumpstart-intro-ml.ipynb`. 
+When JupyterLab opens in your browser, you should already be the correct directory, but if not navigate to the folder where you cloned the repository, `Jumpstart-ML-Workshop`. Click on the file named `jumpstart-intro-ml.ipynb`. 
 
 Now you're ready to start!
 
