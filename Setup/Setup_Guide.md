@@ -1,7 +1,7 @@
 # Jumpstart: Introduction to Machine Learning
 
 ## Setup
-This setup guide was created to give participants more practice using console commands to retrieve data and setup python environments. This is not the only way to clone repos to new directories, or setup python engironment, but offers an opportunity to try different method of setting up your workspace.
+This setup guide was created to give participants more practice using console commands to retrieve data and setup python environments. This is not the only way to clone repos to new directories, or setup python environment, but offers an opportunity to try different method of setting up your workspace.
 
 ### Step 1: Cloning the git repository
 
